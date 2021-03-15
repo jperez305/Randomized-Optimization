@@ -1,6 +1,6 @@
 # Randomized-Optimization
 
-# Assignment 1: Randomized-Optimization
+# Assignment 2: Randomized-Optimization
 
 The goal of this project is to gain a better understainding of the different of the different randomized optimization algorithms and the pros and cons of each. Also, understanding what cases some do better than others:
 
